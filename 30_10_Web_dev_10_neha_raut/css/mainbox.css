@@ -1,0 +1,18 @@
+#mainbox{
+    margin-top: 20vh;
+    min-width: 300px;
+    width: 30vw;
+    height: 70vh;
+    background-color: #fff;
+    border-radius: 1rem;
+}
+#heading{
+    color: #fff;
+    height: 12vh;
+    background-color:#0047AB;
+    text-align: center;
+    padding-top: 1vh;
+    font-size: 5vh;
+    border-radius: 1rem 1rem 0 0;
+    box-sizing: border-box;
+}

@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+} 
+
+body{
+    font-family: "Sans serriff", "Roboto Mono";
+    background: linear-gradient(rgba(0, 0, 0, 0.73),rgba(0, 0, 0,0.73)) , url(https://wallpaperaccess.com/full/187161.jpg) ;
+    display: grid;
+    place-content: center;
+}
